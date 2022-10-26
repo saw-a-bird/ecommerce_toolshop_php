@@ -8,7 +8,7 @@ It was good at that time, and now, although it still looks, not only did I lose 
   <tr style="padding: 0">
     <!-- GitHub Stats Card -->  
     <td valign="top">
-        <img src="./screenshots/pic1.PNG" /> 
+        <img src="./screenshots/pic1.png" /> 
     </td>
     <td valign="top">
         <img src="./screenshots/pic2.png"  /> 
