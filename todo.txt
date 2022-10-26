@@ -1,0 +1,43 @@
+
+Next:
+
+add 'Voltage' in 'db'.
+**make site accept different products
+
+
+Contact me (By Login?)
+Users (Info)
+
+Other (Optional):
+box shadow to gradient linear (register page, https://stackoverflow.com/questions/9649706/css3-box-shadow-linear-gradient)
+
+padding: 5px 10px 5px 15px;
+padding-top: 5px;
+padding-right: 10px;
+padding-bottom: 5px;
+padding-left: 15px;
+
+polarite
+0 = Droite
+1 = Gauche
+
+
+Changer la language en francais
+Users (Sign in, Sign Up, Admin)
+Details Page
+
+
+Logo?
+A partir de?
+Edit the colors?
+get a good logo and edit bar.
+
+
+190*5+(10*5)
+1050
+
+    padding: 5px 10px 5px 15px;
+    padding-top: 5px;
+    padding-right: 10px;
+    padding-bottom: 5px;
+    padding-left: 15px;
