@@ -19,7 +19,7 @@ It was good at that time, and now, although it still looks, not only did I lose 
         <img src="./screenshots/pic3.png"  /> 
      </td>
       <td valign="top">
-        <img src="./screenshots/pic3.png"  /> 
+        <img src="./screenshots/pic4.png"  /> 
      </td>
   </tr>
 </table>
