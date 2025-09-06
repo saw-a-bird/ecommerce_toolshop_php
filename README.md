@@ -1,26 +1,19 @@
-# ecommerce_toolshop_php
+# Ecommerce Toolshop PHP
 
-My first actual website, meant to sell products online for my father's shop.
+This is my first actual website, created to sell products online for my father's shop.
 
-It was good at that time, and now, although it still looks, not only did I lose the database SQL file, this website also lacks severely in security without query preparation or form validation or anything.
+> Note: The project is outdated. The database SQL file is lost, and it lacks proper security — no query preparation or form validation.
 
-<table cellpadding="0">
-  <tr style="padding: 0">
-    <!-- GitHub Stats Card -->  
-    <td valign="top">
-        <img src="./screenshots/pic1.png" /> 
-    </td>
-    <td valign="top">
-        <img src="./screenshots/pic2.png"  /> 
-     </td>
-  </tr>
-  </tr>
-       <td valign="top">
-        <img src="./screenshots/pic3.png"  /> 
-     </td>
-      <td valign="top">
-        <img src="./screenshots/pic4.png"  /> 
-     </td>
-  </tr>
-</table>
+### Technologies Used
 
+* **PHP**
+* **JavaScript**
+* **HTML**
+* **CSS**
+* **MySQL**
+
+### Screenshots
+
+| ![pic1](./screenshots/pic1.png) | ![pic2](./screenshots/pic2.png) |
+| ------------------------------- | ------------------------------- |
+| ![pic3](./screenshots/pic3.png) | ![pic4](./screenshots/pic4.png) |
